@@ -1,0 +1,1290 @@
+                                   2
+
+              RIIGI OIGUSTAMINE
+
+                          Sissejuhatus
+
+         K6ik, mis meie eksistentsi vaartustab, s6ltub piirangute
+         rakendamisest teiste inimeste tegudele.
+                            Uohn Stuart Mill, Vabadusest, lk 37)*
+
+
+Kui eelmise peati.iki argumendid paika peavad, siis muutub elu
+loodusseisundis mis tahes ki.illalt suure inimri.ihma jaoks varem
+v6i hiljem talumatuks. M6ni v6ib oelda, et see on ki.illalt hea alus
+tunnistada riik 6igustatuks ilma igasuguse taiendava argumendi­
+ta. L6ppude l6puks, mis muud t6elist alternatiivi riigile meil on?
+Kui n6ustume John Stuart Milli (1806-1873) vaitega, et elu ilma
+piiranguteta teiste inimeste kaitumisele oleks vahe v6i i.ildse mitte
+midagi vaart, ning i.ihtlasi usume, et "rakendavate piirangute"
+idee ilma riigita on pelgalt soovm6tlemine, siis tunduvad igasu­
+gused edasised argumendid riigi 6igustuseks m6ttetud.
+     Asjaolu, et meil puudub t6eline alternatiiv riigile, toimib ne­
+gatiivse 6igustusena: meile ei tule pahe midagi paremat. Kuid see
+siiski ei l6peta filosoofilist arutelu. Riigi kaitsja peaks lootma,
+et suudab oelda midagi positiivsemat, mis naitaks, kuidas riik
+saab olla 6igustatud mingi tunnustatud moraaliarutluse toel. See
+tahendab, meil on vaja argumenti, mis veenaks, et meil on mo­
+raalne kohustus riigile alluda. Saarane argument v6imaldab meil
+ka m6ista, millal v6ib riik kaotada oma legitiimsuse; naiteks on
+laialt levinud arvamus, et just selline olukord leidis aset vara-
+
+'' Milli tsitaatide edasiandmisel on kasutatud eestikeelset t6lget
+Q. S. Mill, Vabadusest. Tallinn: Hortus Litterarum, 1996. T lk Kaja Tael).
+
+50
+                        RIIGI OIGUSTAMINE
+
+semate idabloki maade kokkuvarisemise ajal. Kuidas saaks riiki
+positiivselt 6igustada, peaks saama selgemaks kaesoleva peatiiki
+kaigus. Kuid esmalt peaksime meenutama, miks pole kaugeltki
+ilmselge, et meil on moraalne kohustus riigile alluda.
+     Nagu nagime, eeldas Locke, et inimesed on loomuparaselt
+vabad, v6rdsed ja s6ltumatud. See tahendab, et loomuparaselt
+pole nad allutatud m6ne teise isiku v6imule. Seeparast peavad
+Iegitiimsed v6imusuhted olema mingis m6ttes tehislikud - nad
+on inimlik looming v6i konstruktsioon. Vastavalt tegi Locke ja­
+relduse, et ainus viis teise isiku v6imu alla sattuda on anda sellele
+isikule oma n6usolek (valja arvatud 6igustatud karistuse puhul).
+See kehtib Locke'i arvates s6ltumatult sellest, kas v6imule piiiid­
+lejaks on teine iiksikisik v6i suveraan. Seega suveraanil, kes vai­
+dab, et tal on teie tile v6im, on sellisele v6imule 6igust ainult
+siis, kui te olete end vabatahtlikult oma n6usoleku kaudu sellesse
+seisu asetanud. Niisiis seisneb Locke'i meelest riigi 6igustamise
+probleem selles, kuidas naidata, et riigi autoriteet on lepitatav
+isiku loomuparase autonoomiaga. Terna vastus seisneb apelleeri­
+mises individuaalse n6usoleku ning iihiskondliku lepingu ideele.
+P6hiliselt on Locke'i ja iihiskondliku lepingu teoreetikute arvates
+riik 6igustatud siis ja ainult siis, kui iga iiksikisik, kelle iile v6imu
+omamisele pretendeeritakse, on selleks ise n6usoleku andnud.
+      Locke kuulub niisiis saaraste teoreetikute traditsiooni, kes
+annavad suure kaalu isikliku autonoomia ehk loomuparase va­
+baduse ideele. Nende teoreetikute jargi tuleb poliitilisi institut­
+sioone 6igustada nende isikute tahte, valikute v6i otsuste kaudu,
+kelle iile k6nealustel institutsioonidel on v6im. See on vaga koi­
+tev seisukoht, kuna suhtub suure respektiga igasse ilksikisikusse,
+andes talle vastutuse ja v6imaluse oma saatust omaenda valiku­
+tega ise kujundada. Kuid on ka teisi olulisi lahenemisviise riigi
+6igustamisele, mis omistavad autonoomiale vaiksema tahtsuse
+kui Locke ning asendavad selle teiste vaartustega. Naiteks Jeremy
+Benthami (1748-1832) utilitaristlikus teoorias pole esmaseks
+vaartuseks mitte autonoomia, vaid 6nn. P6hijoontes iitleb uti­
+litaristlik teooria, et me peaksime puiidma maksimeerida 6nne
+kogusummat uhiskonnas. Selle kasituse jargi on riik 6igustatud
+siis ja ainult siis, kui toodab rohkem 6nne kui iikski teine alter­
+natiiv. Kas me riigiga n6ustume, pole oluline. Tahtis on see, kas
+
+                                                                      51
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+riik teeb iihiskonna liikmed kokkuvattes annelikumaks, kui nad
+oleksid ilma riigita. Kaesolev peatiikk uurib nausolekuteooriat ja
+utilitaristlikku teooriat koos maningate teiste lahenemisviisidega
+riigi moraalsele aigustamisele.
+
+
+
+                                  Riik
+
+Enne kui otsustada, kuidas kaige paremini riiki aigustada, oleks
+tark kindlaks teha, mis asi riik on. Ajaloost ja tanapaeva polii­
+tikast teame, et on olemas palju erinevaid riigitiiiipe. Enamik
+inimesi, kes neid sanu loeb, elab taenaoliselt moodsa liberaalse
+demokraatia tingimustes. Maned elavad healoomulise vai tiiran­
+liku diktatuuri all, mis pahineb sajavaelisel jaul, monarhistlikul
+perekonnaliinil voi millelgi muul. Maned riigid soosivad vaba
+turgu, samas kui teised iiritavad teostada kollektiivseid tootmise
+ja jaotamise vorme. Kui lisame neile tegelikele riikidele teoreeti­
+lised riigimudelid, eriti kommunistlikest ja utopistlikest kirjutis­
+test, vaib naida, et erinevatel tegelikel ja vaimalikel riikidel on nii
+vahe i.ihist, et piii.ie riiki "defineerida" on lootusetu iilesanne.
+     Sellegipoolest on sageli margitud, et kaikidel riikidel pais­
+tab olevat maningaid i.ihisjooni. Me nagime, et Locke maaratles
+poliitilist vaimu kui aigust teha seadusi, koos aigusega karistada
+neid, kes seadustele ei allu. Ilmselgelt on riikidel poliitiline vaim
+vai vahemalt pretendeerivad nad sellele. Sotsioloog Max Weber
+(1864-1920) rahutab sedasama punkti, ehkki veidi jahmatava­
+mas keeles: riikidel on legitiimse vagivalla monopol. Ukskaik
+millise riigi raames nahakse asja nii, et vagivald vai sund on
+eeskatt riigi asi: kas siis otseselt, riigi agentide - politsei ja kohtu­
+te - kaudu, vai kaudselt, loa kaudu, mida riik vahel annab oma
+kodanikele ja millega lubab neil olla iiksteise suhtes vagivaldne,
+naiteks enesekaitseks. Igasugust legitiimset vagivalda vai sundi
+teostab voi selle jarele valvab riik.
+     Asja teine kiilg on niisugune, et riik tunnistab oma vastutust
+kaitsta igaiiht, kes elab tema piirides, mittelegitiimse vagivalla
+eest. Kahtlemata vaid sel pahjusel oleme valmis tunnistama riigi
+monopoli vagivallale. Me loobume oma aigusest ennast kaitsta
+
+52
+                       RIIGI OIGUSTAMINE
+
+vaid selle arusaamisega, et meil pole tarvis end ise kaitsta - riik
+teeb meie eest seda, mis vaja.
+     Niisiis vaidetakse sageli, et riigil on .kaks olemuslikku joont:
+talle kuulub legitiimse sunni v6� vagivalla monopol ja ta pakub
+kaitset igaiihele, kes asub tema territooriumil. Kas see on riigi
+"definitsioon"? Oks tavaline vastuvaide niisugusele definitsioo­
+nile on saarane: praktikas on taiesti ilmne, et iikski tegelik riik
+ei vasta ideaalile. Tegelikult ei suuda iikski riik monopoliseeri­
+da _vagivalda ega kaitsta igaiiht oma territooriumil. Pruugib vaid
+m6elda kuritegevuse taseinele iiksk6ik missuguses suurlinnas ja
+neile ettevaatusabin6udele, mida tavakodanikud tunnevad end
+olevat kohustatud rakendama oma isikliku julgeoleku tagamiseks.
+Niisuguste juhtude kohta iitleksime, et teatud riigid ei suuda vagi­
+valda monopoliseerida ega kahjuks ka mitte k6iki oma kodanikke
+kaitsta: me ei iitleks, et saarastel iihiskondadel puudub iildse riik.
+Samas aga oleksime justkui sunnitud seda iitlema, kui kasitaksime
+eelmainitud kahte "olemuslikku joont" nii, nagu annaksid nad
+riigi maaratluse.
+     Vastuseks tuleks taas kord r6hutada, et pakutud maaratlus
+kinnitab vaid seda, et riigile kuulub legitiimse vagivalla monopoL
+Mittelegitiimse vagivalla olemasolu ei puutu asjasse. Ja riik pakub
+kaitset k6igile, isegi kui ta reaalselt ei suuda seda sageli tagada.
+M6lemad vastused on siiski probleemsed. Paljud inimesed USA-s
+vaidavad, et neil on 6igus enesekaitseks relvastuda. Nad mitte
+ainult ei usu, et neil on saarane 6igus, vaid kinnitavad ka, et va­
+litsusel puudub nende iile selles kiisimuses v6im. Niisiis vaidavad
+need inimesed tegelikult - ja vaga veendunult -, et pole riigi v6i
+valitsuse asi piiiida vagivallavahendeid monopoliseerida. Ning
+ka argument, et riik pakub kaitset k6igile, peab iildjuhul vaevalt
+paika. Paljud riigid lihtsalt eiravad ebasoositud vahemusi, eriti kui
+tegu on teatud etniliste riihmadega. Veelgi halvem: aarmuslikel
+juhtudel kannatavad need vahemused riigi enese mittelegitiimse
+vagivalla all, tagakiusamiste v6i "etniliste puhastuste" vormis.
+Seega puudub neil riikidel ilks tunnustest, mis riikidel vaidetakse
+olevat, kuid oleks absurdne eitada, et tegu on ikkagi riikidega.
+     Niisiis on m6lemad riiki defineerivad omadused proble­
+maatilised. Seni pole me teinud muud kui osutanud ideaalsele
+riigi tiiiibile, millel t6epoolest on kaks eespool mainitud joont.
+
+                                                                   53
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+Jatame defineerimise probleemi praegu k6rvale ning liigume eda­
+si keskse ki.isimuse juurde: kuidas saame saarast riiki 6igustada?
+
+
+                      Oigustamise eesmark
+
+Siinkohal on kasulik v6tta tarvitusele maned terminid. Riigi 6igus­
+tamise iilesanne oeldakse sageli seisnevat selles, et on tarvis nai­
+data uldiste poliitiliste kohustuste olemasolu. Oelda, et kellelgi
+on poliitilised kohustused, tahendab oelda vahemasti seda, et tal
+on kohustus normaalses olukorras alluda riigi seadustele, seal­
+juures ka maksta ettenahtud makse. V6idakse eeldada ka teisi
+kohustusi: vajaduse korral v6idelda riigi kaitseks; v6ib-olla ka
+kaituda isamaaliselt; isegi otsida ja paljastada riigi vaenlasi. Kuid
+keskendume siinkohal kohustusele alluda seadustele.
+    Poliitiline kohustus. on kohustus alluda igale seadusele selle­
+parast, et see on seadus, mitte tingimata selleparast, et sel sea­
+dusel meie arvates mingit s6ltumatut moraalset 6igustust oleks.
+Enamik meist allub m6rva keelavatele seadustele pikemalt m6t­
+lemata. Kui meilt ki.isitaks, miks me hoidume inimesi tapmast,
+vastaks enamik meist kahtlemata, et mote seda teha pole meile
+kunagi arvestatava variandina pahe tulnud. Kui meilt n6utaks
+edasisi p6hjendusi, iitleksime t6enaoliselt, et tapmine on vaar v6i
+ebamoraalne. Ma arvan, et meid hairiks vaga, kui meile oeldaks,
+et kellegi peamine p6hjus teiste inimeste mittetapmiseks on see,
+et tapmine on ebaseaduslik. Niisiis vajavad vaid vahesed inime­
+sed m6rva sooritamata jatmiseks seadust. Siin on meil seega tegu
+niisuguse seadusega, mis langeb kokku sellega, mida ka moraal
+seadusest s6ltumatult n6uab.
+    Kuid leidub ka seadusi, millel tundub olevat vahe moraalset
+alust. V6tame naiteks liiklusseadused. Te ehk usute, et teil on
+moraalne kohustus peatuda punase tule ees ti.ihjal ristmikul, kuid
+teete seda vaid seeparast, et seadus nii kasib. M6istagi usuvad
+inimesed m6nikord, et see, mille tegemist seadus neilt n6uab,
+on moraalselt vaar. Naiteks kasutatakse m6ningaid makse tuu­
+marelvade valmistamiseks, ja paljud maksumaksjad arvavad, et
+saarane poliitika on moraalselt taunitav. Kuid isegi sellisel juhul
+voib "korralik kodanik" ikkagi tunda kohustust alluda maksusea-
+
+54
+                       RIIGI OIGUSTAMINE
+
+dustele ning seetottu vastutahtmist aina kaasa aidata relvastumis­
+projektile v6i teistele projektidele - lihtsalt seeparast, et seadus
+seda nouab. Saarane kodanik voib olla arvamusel, et mis tahes
+protest tuleb teostada teiste vahenditega. Seaduse rikkumine on
+kohane vaid koige tungivamatel ja tosisematel juhtudel.
+     Tavaliselt. arvatakse "riigi oigustamine" tahendavat seda, et
+tuleb naidata, et on olemas tildine kohustus alluda seadustele.
+"Uldine" kohustus ei tahenda kaesolevas kontekstis mitte ko­
+hustust alluda koigile seadustele kogu aeg. Ainult teatud laadi
+ebameeldivat sorti fanaatik saab uskuda, et me oleme alati mo­
+raalselt kohustatud alluma seadusele, likskoik mida ta mul kasib
+teha; naiteks et ma peaksin punase tule taga peatuma isegi siis,
+kui soidutan surevat inimest haiglasse. Mote on pigem jargmine:
+poliitilised kohustused on selles mattes tildised, et nad kehtivad
+koigi inimeste kohta, kes elavad selle riigi piirides. Voimalik, et
+riik on valmis teatud inimesed teatud seadustest vabastama (ehkki
+sageli on see korruptsiooni mark), kuid asja tuum on ikkagi sel­
+les, et riigi oigustamise eesmargiks on naidata, et pohimotteliselt
+on koik riigi territooriumil viibijad moraalselt kohustatud tema
+seadusi ja maarusi taitma. Jargnevalt peaksime uurima klisimust,
+kas riigi saarase 6igustuseni on voimalik jouda.
+
+
+
+                   Uhiskondlik leping
+
+        Ma kinnitan peale selle, et koik inimesed on loomupa­
+        raselt [loodusseisundis] ja jaavad sinna seniks, kuni nad
+        omaenda nousolekuga ei tee ennast mingi poliitilise iihis­
+        konna liikmeks; ja ma ei kohkle seda kaesoleva arutluse
+        jargmises osas vaga selgeks tegemast.
+
+                                   (Locke, Teine traktaat, lk 278)
+
+
+
+
+                                                                 55
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+                      Voluntaristlik kohustus
+
+Kasutame edaspidi terminit "voluntarism" varem mainitud vaate
+kohta, mida kaitses Locke: poliitiline v6im minu iile saab tekkida
+ainult minu vabatahtlike aktide tulemusena. Teisel inimesel saab
+minu iile poliitiline v6im olla ainult siis, kui ma ise olen talle selle
+v6imu andnud.
+      Seda vaadet valjendatakse m6nikord niinimetatud "omaks­
+v6tmise" p6him6ttega: et mitte kellelgi pole mitte mingisugu­
+seid kohustusi, kui ta pole neid kohustusi "enesele peale pan­
+nud", st neid vabatahtlikult endale v6tnud. Taht-tahelt v6etuna
+on niisugune seisukoht vaheusutav ja tuleks k6rvale heita. Minu
+kohustus mitte riinnata siiiituid ei tundu mingil moel olenevat
+sellest, kas olen eelnevalt niisuguse kohustuse "enesele peale
+pannud". Arvatavasti peame tunnistama, et meil on m6ningaid
+moraalseid kohust,usi, iiksk6ik kas me neid tunnistame v6i mit­
+te. Kuid sellega pole veel naidatud, et iiksk6ik kellel on 6igus
+teha seadusi ja sundida mind neile alluma. Ning muidugi just
+seda riik teeb.
+      Siinkohal saab ilmseks, et vahemasti Locke'i jargi seisneb po­
+liitilise kohustuse probleem selles, et tuleb naidata, kuidas saab
+riigi olemasolu seletada voluntaristlikes m6istetes. Tuleb naidata,
+et iihel v6i teisel moel on iga viimane kui iiksikisik - v6i vahe­
+masti iga vaimselt adekvaatne taiskasvanu - andnud riigile v6i­
+mu enda iile. Saarase arusaama jargi ei piisa riigi 6igustamiseks
+lihtsalt osutamisest, kui palju paremal jarjel me oleme riigiv6imu
+tingimustes v6rreldes loodusseisundiga. Peale selle tuleb veel nai­
+data, et iga inimene on riigiga vabatahtlikult n6ustunud.
+      Kui s6nastada veidi teisiti, siis isegi kui on t6si, et riik on mul­
+le kasulik, ei jareldu sellest Locke'i meelest veel riigi 6igustatus.
+Sest mul on loomulik 6igus vabadusele, mist6ttu poliitiline v6im
+minu iile saab tekkida ainult minu enda n6usoleku kaudu. Nii et
+kui riik pretendeerib poliitilise v6imu teostamisele minu iile, ilma
+et tal sealjuures minu n6usolekut oleks, ei ole tal 6igust valitseda
+ning ta on seeparast mittelegitiimne. See on nii isegi siis, kui elu
+tsiviiliihiskonnas on kaugelt parem elust loodusseisundis.
+      Piiiie naidata, et indiviidid n6ustuvad riigiga, on iihiskondli­
+ku lepingu teooria aluseks. Kui iihel v6i teisel moel saab naida-
+
+56
+                        RIIGI OIGUSTAMINE
+
+ta, et iga indiviid on n6ustunud riigiga, s6lminud riigiga teatud
+lepingu v6i s6lminud teiste indiviididega lepingu riigi rajamise
+kohta, naib probleem olevat lahendatud. Me oleksime naidanud,
+kuidas riik omandab universaalse v6imu -' v6imu meist igaiihe
+iile -, naidates, et igaiiks on selle v6imuga n6ustunud. Teoreetiliselt
+on iihiskondliku lepingu teooria seega ilmne ja elegantne lahen­
+dus poliitilise kohustuse probleemile. Ta rahuldab universalismi
+ja voluntarismi kaksikn6uet: iga inimene peab olema kohustatud
+(universalism) ja poliitilised kohustused tekivad iiksnes n6usoleku
+labi (voluntarism).
+     See k6ik on teoorias vaga kena, kuid kust me leiame iihiskond­
+liku lepingu praktikas? Mone kasitluse jargi peetakse iihiskond­
+likku lepingut "alglepinguks", reaalseks ajalooliseks siindmuseks.
+See siindmus oli see hetk ja mehhanism, mis viis meie esiisad
+loodusseisundist tsiviiliihiskonda. Niisugune seisukoht v6etakse
+tavaliselt - ja t6enaoliselt 6igusega - vastu taieliku uskumatusega.
+Isegi kui me tunnistame, et kunagi eksisteeris reaalne, ajalooline
+loodusseisund (eelmises peatiikis puutusime kokku m6ningate
+kaalutlustega, mis lubavad selles kahelda), kas sai eksisteerida nii­
+sugust lepingut? Kus on t6endid? Millises muuseumis? Sedav6rd
+poordeline siindmus oleks pidanud ajaloodokumentidesse min­
+geid jalgi jatma. Peale selle: kuidas saanuks saarane leping aset
+leida? Lisaks silmnahtavatele kommunikatsiooni ja koosk6lasta­
+mise probleemidele on Rousseaust inspireeritud kriitikud osuta­
+nud, et on absurdne arvata, nagu oleksid loodusseisundis elanud
+metslased olnud piisavalt rafineeritud m6istestikuga, et luua ja
+respekteerida mis tahes laadi juriidilist lepet.
+     Kuid mis palju tahtsam: isegi kui saarane leping oleks olnud,
+mida see t6estaks? Vaevalt saaksime vaita, et sellega on seletatud
+praeguste kodanike poliitilised kohustused. L6ppude l6puks ei
+luba ju iikski m6istlik 6igussiisteem s6lmida iihel p6lvkonnal le­
+pingut, mis seob jargnevaid p6lvkondi. Aga just nimelt seda naib
+algl�pingu doktriin eeldavat.
+     Kui iihiskondliku lepingu doktriin s6ltub. alglepingu doktrii­
+nist, on ta kahtlemata hukule maaratud. 6nneks leidub teistsu­
+guseid ideid, mis v6ivad mangida sobivamat rolli. Kui tahame
+saavutada voluntaristliku riigikasituse eesmarki, siis on oluline, et
+k6ik need, keda nahakse praegu riigi poolt seotud olevat, oleksid
+
+                                                                    57
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+saanud sellega n6ustuda. See naib n6udvat mingit laadi jatkuvat
+n6usolekut, mille annab iga iiksikisik.
+     Kas on v6imalik, et igaiiks meist on teadlikult ja vabatahtli­
+kult andnud riigile oma n6usoleku? Raske on naha, kuidas see
+v6imalik on. Ma ei maleta, et minult oleks kunagi kiisitud, kas
+ma n6ustun sellega, et minu iile valitsetakse - vahemasti pole
+seda kiisinud keegi, kellel oleks olnud mingi ametlik staatus. Tosi
+kiill, skautidelt ja koolilastelt n6utakse sageli, et nad vannuksid
+truudust lipule v6i "Jumalale ja kuningannale", kuid tegelikult
+ei anta neile 6iget valikuv6imalust ja igal juhul pole nad kiil­
+lalt vanad, et nende t6otusel oleks mingit 6iguslikku staatust.
+On vahe iihiskondi (kui iildse), kus praktikas igaiihelt n6utaks
+vandet6otust. Nagu on sageli margitud, on moodsas iihiskonnas
+ainsateks inimesteks, kes annavad selgesti valjendatud n6usole­
+ku, need, kes saavad mingi riigi kodakondsuse naturalisatsiooni
+kaudu. Tavakodanike maaratu enamus jaab sellest puutumata.
+     Siinkohal v6idakse vastata, et n6usolekut ei anta mitte nii
+ilmsel v6i selgelt valjendatud kujul. Uks mote on niisugune, et
+n6usolekust antakse teada haaletuskasti kaudu. Haaletades valit­
+suse poolt, anname sellele oma n6usoleku. Ning on teatud maaral
+usutav, et isegi need, kes haaletavad valitsuse vastu, annavad haa­
+letamisega siiski teada oma n6ustumisest siisteemi kui tervikuga.
+Kuid see jatab meile kaks probleemi. Maned neist, kes haaletavad
+valitsuse vastu, v6ivad vaita, et nad valjendavad oma mitten6us­
+tumist siisteemi kui tervikuga. Peale selle: mida oelda nende koh­
+ta, kes ei haaleta? Haaletamisest keeldumist vaevalt saab kasitada
+viisina valjendada oma n6ustumist valitsusega. Asja ei parandaks
+see, kui haaletamata jatmine tunnistataks ebaseaduslikuks ning
+igaiihte sunnitaks haaletama. Kuna haaletamine poleks enam
+vabatahtlik, ei saaks seda enam t6lgendada n6ustumisaktina ega
+selle margina.
+     Kirjeldatud m6tteliini palju huvitavamaks edasiarenduseks on
+tees, et poliitilised kohustused tekivad ainult siis, kui iihiskond
+on korraldatud "osalusdemokraatiana". Osalusdemokraatia on
+niisugune iihiskonnakorraldus, kus koik kodanikud v6tavad va­
+litsemisest aktiivselt osa, ning saarane osalus on palju ulatuslikum
+kui koik see, mida naeme tanapaeva demokraatias. Niisugusest
+seisukohast tuleneb tahtis jareldus, et kuna praegused demo-
+
+58
+                       RIIGI OIGUSTAMINE
+
+kraatiad ei vasta sellisele ideaalile, siis ei ole kodanikel saarastes
+riikides poliitilisi kohustusi. Osalusdemokraatia teooria vaarib
+tahelepanu ning jargmises peatiikis uurime seda lahemalt. Seniks
+peame meeles pidama, et k6ik kaesolevas peatiikis tehtavad ja­
+reldused poliitilise kohustuse kohta on s6ltuvad selle uurimise
+tulemustest.
+
+
+
+                         Vaikiv nousolek
+
+Seni on meil veel ebaselge, kuidas t66tada valja eksplitsiitse v6i
+selgesti valjendatud n6usoleku t6eparast teooriat. Me juba vaatle­
+sime ideed, et haaletamine on vaikiva n6ustumise viis, kuid v6ib­
+olla saab vaikiva n6usoleku ideed arendada ka mingis lootustand­
+vamas vormis. Tegelikult toetuvad k6ik olulised iihiskondliku
+lepingu teoreetikud - Hobbes, Locke ja Rousseau - erineval moel
+vaikival n6usolekul p6hinevatele argumentidele. Keskseks on siin
+mote, et vaikimisi riigi kaitset kasutades antakse sellele oma vai­
+kiv n6usolek. Ja sellest piisab, et indiviidi riigiga siduda. Ehkki
+Locke uskus, et ainult selgesti valjendatud n6usolek saab teha
+inimesest poliitilise iihiskonna taiem66dulise liikme, vaitis ta oma
+kuulsas argumendis, et sellegipoolest saab poliitilisi kohustusi
+rajada vaikivale n6usolekule:
+
+        lga inimene, kes omab v6i kasutab mingi valitsuse val­
+        duste iiksk6ik missugust osa, annab seelabi oma vaiki­
+        va n6usoleku ja on siitpeale kohustatud kuuletuma sel­
+        le valitsuse seadustele saarase kasutuse ajal nii nagu iga
+        teinegi; iiksk6ik kas k6nealuseks omandiks on temale ja
+        ta parijatele igavesti kuuluv maatiikk, ainult peavari na­
+        dalaks ajaks v6i ta lihtsalt randab vabalt maanteel. (Teine
+        traktaat, lk 348)
+
+V6imalik, et see peab paika. Ma n6ustun vaikimisi riigiga, kui
+v6tan vastu tema kaitse ja muud hiived. V6ib kiill olla, et lihtsalt
+hiivede vastuv6tmine on piisav enese sidumiseks riigiga, ning me
+vaatame saarast argumenti kaesoleva peatiiki l6pupoole. Kuid
+
+                                                                   59
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+praegune mote on veidi teistsugune, sest siin lisatakse argumen­
+dile veel iiks liili: hiivede saamine on riigiga vaikiva noustumise
+viis, ja just nousolek on see, mis seob. Kas peaksime sellise vaite
+heaks kiitma?
+     Voib-olla on niisuguse argumendi taga mote, et need, kellele
+ei meeldi see hiivede ja koormiste pakett, mida riik pakub, v6ivad
+piisti t6usta ja minema minna. Aga kui konealune doktriin soltub
+sellest, siis iitleksid paljud, et niisuguse seisukoha on otsustavalt
+umber liikanud David Hume (1711-1776):
+
+        Kas me saame tosimeeli oelda, et vaesel talupojal voi kasi­
+        toolisel on vaba voli oma maalt lahkuda, kui ta ei tunne
+        ei vooraid keeli ega vo6raid kombeid ning elab paevast
+        paeva sellest vaikesest palgast, mida ta saab? Sama hasti
+        voime vaita, et laevale jaav inimene noustub vabataht­
+        likult laeva peremehe valitsemisega, ehkki ta kanti par­
+        dale sellal, kui ta magas, ning peab hiippama ookeani
+        ja hukkuma selsamal silmapilgul, mil ta laevalt lahkub.
+        (Alglepingust, lk 4 7 5)
+
+Mida see vastuvaide naitab? Hume'i mote on selles, et ainuiiksi
+alalist elamist ei saa tolgendada n6ustumisena. Miks? Lihtsalt
+selleparast, et siis ei tuleks mittenoustumisena arvesse mitte miski
+muu peale maalt lahkumise. Kuid see on kahtlemata liiga ra­
+dikaalne tingimus, millest ei saa jareldada, et need, kes jaavad,
+n6ustuvad.
+     Seda peetakse sageli veenvaks iimberliikkeks. Kuid teisest kiiljest
+leidub juhtumeid, mis rahuldavad isegi saaraseid n6udlikke tingi­
+musi. Rousseau naiteks oletab, et alaline elamine tahendab nousole­
+kut, kuid ainult "vabas" riigis, "sest muidu voib perekond, hiived,
+pelgupaiga puudumine, paratamatus voi vagivald inimest riigis vastu
+tema tahet kinni hoida; ja siis ei tahenda tema seal elamine iseene­
+sest enam tema n6ustumist lepinguga" (Uhiskondlikust lepingust, lk
+277). Rousseau puhul on isearalik ja samas iseloomulik, tema arva­
+mus, et perekond voi hiived teevad inimese mittevabaks. Kuid me
+naeme siiski, milles on tema mote, isegi kui soovime tema kasitlust
+parandada. Rousseau tahab oelda, et vabas riigis on mitten6ustumise
+akt - riigi territooriumilt lahkumine - kiillalt lihtne.
+
+60
+                       RIIGI OIGUSTAMINE
+
+     Mote, et iga mittenoustuja voib lahkuda, oleks ehk usutav,
+kui maailmast saaks moelda kui iiksteisest miiiiriga eraldatud linn­
+riikidest, kust inimene saab lahkuda lihtsalt varavast valja jaluta­
+des (nii nagu Rousseau juhtumisi oma nooruses Genfist lahkus).
+Hume peab ilmselgelt silmas pigem midagi rahvusriigitaolist,
+nagu naiteks Suurbritannia, kust lahkumine pole niisama lihtne.
+Oigupoolest vihjab tema kujund riigist kui laevast avamerel just
+Britannia-taolisele saarele. Niiiidisaegses maailmas, rahvusriikide
+maailmas, tundub vaikiva nousoleku doktriin marksa vahem ko­
+hane, kui ta oli seda Rousseau meelest; mitte niivord seeparast, et
+riike iimbritsevad mered, vaid seeparast, et isegi need, kes taha­
+vad lahkuda, leiavad sageli, et lihtsalt pole kuskile minna: iikski
+teine maa ei vota neid vastu ja iildse, mis motet on vahetada iiht
+vastumeelset reziimi teise vastu? Loppkokkuvottes tuleb nahta­
+vasti noustuda Hume'iga. Tanapaeva maailm ei rahulda vaikiva
+nousoleku tingimusi. Vaikiva nousoleku moiste ei aita riiki oigus­
+tada.
+
+
+
+                    Hupoteetiline nousolek
+
+Voib-olla on viga arvata, et iihiskondliku lepingu teoreetik peab
+apelleerima mingit laadi tegelikule nousolekule, olgu see siis
+ajalooline, eksplitsiitne voi vaikiv. Pigem voiks vaita, et iihis­
+kondlik leping on puhthiipoteetiline: see iitleb meile ainult,
+mida me loodusseisundis teeksime v6i oleksime teinud. Selle
+seisukoha jargi on mote, et kui oleksime loodusseisundis, siis
+s6lmiksime lepingu riigi rajamiseks, iseenesest piisav, et pidada
+riiki oigustatuks.
+    Kuidas tuleks seesugust argumenti moista? Esimese sammu­
+na tasub meenutada punkti, mida mainisime eelmises peatiikis:
+parim viis jouda selgusele oma suhtes millegagi on kujutleda
+selle asja puudumist. Niisugust taktikat kasutavad tihti nai­
+teks lapsevanemad, et veenda oma last sooma mitteisuaratavat
+toitu: sa oleksid selle eest tanulik, kui oleksid nalga suremas.
+Analoogiliselt iitleb siis hiipoteetilise lepingu argument meile,
+et kui me iihel voi teisel moel leiaksime end olevat ilma riigita,
+
+                                                                 61
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+peaksime m6istlikuks selle rajada, niipea kui moistaksime oma
+tabarat olukorda.
+     Niisiis v6ime hiipoteetilise lepingu argumenti m6ista jarg­
+miselt: isegi kui te poleks riigi v6imu all ja kui te leiaksite end
+mingil moel loodusseisundist, siis - juhul kui toimiksite m6istus­
+paraselt - teeksite k6ik mis v6imalik, et riiki taasluua. T apsemalt,
+te iihineksite m6istusparaselt ja vabatahtlikult riigi rajamise le­
+pinguga. Hiipoteetilise lepingu teoreetik kiisib ni.ii.id t6enaoliselt:
+kuidas saab see argument riiki mitte 6igustada?
+     Kui on t6esti t6si, et k6ik m6istusparased isikud teeksid loo­
+dusseisundis vabatahtlikult sellise valiku, siis naib meil tegu olevat
+hea argumendiga riigi 6igustuseks. Ent siiski peaksime kiisima,
+kuidas on see seotud iihiskondliku lepingu "voluntaristlike" eel­
+dustega. Sest kui eeldada, et meie poliitilised kohustused v6ivad
+tekkida ainult vabatahtlike n6ustumisaktide kaudu, ja tunnistada,
+et hiipoteetilised ,n6ustumisaktid ei ole aktid, paistab siit jarel­
+duvat, et hiipoteetilise lepingu argument ei taida i.ihiskondliku
+lepingu teooria n6udmisi.
+     See tahelepanek paneb meid t6lgendusprobleemi ette. Kui
+hiipoteetilise lepingu argument ei ole seda laadi argument, mis
+v6iks rahuldada iihiskondliku lepingu teoreetikut, siis mis laadi
+argument see on? -Oks v6imalus on oelda, et see on viis naidata, et
+teatud sorti riigid viiarivad meie n6usolekut. See tahendab, riigil
+on hulk soovimisvaarseid omadusi - eeskatt on riik meie parim
+lootus rahule ja julgeolekule - ning t6siasi, et loodusseisundis me
+n6ustuksime riigi rajamisega, lihtsalt kinnitab, et tal on need oma­
+dused. Saarase t6lgenduse jargi on just riigi omadused see, mis
+annab 6igustuse p6hialuse - mitte meie n6usolek. N6ustumine
+jaab lihtsalt mangust valja. Seega l6ppkokkuv6ttes ei ole kaes­
+oleva argumenteerimisliini jargi hi.ipoteetilise lepingu argument
+riigi voluntaristliku kaitse vorm. Ta on palju lahemal utilitaristli­
+kele teooriatele, mida peatselt vaatleme. Riik on 6igustatud oma
+panuse kaudu heaolusse.
+     Teisest kiiljest leidub aga ka viis, kuidas voiksime piiiida hii­
+poteetilise lepingu teooriat rekonstrueerida voluntaristlikes ter­
+minites. Vaatleme argumenti, et hiipoteetiline n6usolek osutab
+mingil moel tegelikule n6usolekule. Peaksime siin lahtuma m6t­
+test, et ehkki peaaegu mitte keegi ei valjenda kunagi formaalselt
+
+62
+                        RIIGI OIGUSTAMINE
+
+  oma n6ustumist riigiga, saab teatud mattes siiski oelda, et enamik
+  meist on sellega nous. V6imalik, et kui meilt kiisitaks selle kohta
+  ning palutaks t6siselt ja p6hjalikult jarele m6elda, valjendaksime
+  koik oma n6usolekut. Seega oleks 6ige oelda, et igaiihel, kelle
+  kohta asjaoeldu kehtib, on kalduvus riigiga n6us�uda. Kuid see
+  tundub olevat sama mis oelda, et saarased inime�ed n6ustuvad
+  riigiga, isegi kui nad ise seda ei m6ista. Nii nagu, meil v6ib olla
+  uskumusi, mida me pole kunagi teadvustanud (naiteks olen ma
+  nahtavasti palju aastaid uskunud, et kaelkirjakutel pole iiheksat
+  jalga, ehkki enne kui ma need s6nad esmakordselt kirja panin,
+  polnud ma seda motet iialgi teadlikult-s6nastanud), v6ime riigiga
+  n6ustuda sellest enesele aru andmata.
+       Hiipoteetilise lepingu abin6ust v6ib niiiid m6elda kui vii­
+  sist, kuidas panna meid m6istma, mida me tegelikult m6tleme.
+  M6eldes selle iile, kuidas ma kaituksin loodusseisundis - jooksek­
+  sin ummisjalu tsiviiliihiskonda, kui ainult saaksin -, j6uan m6ist­
+  miseni, et ma t6esti n6ustungi riigiga. Mitte et niiiid, selle m6t­
+  teeksperimendi teostamise jarel n6ustuksin esimest korda, vaid
+  pigem j6uan t6demuseni, et olen sellega kogu aeg nous olnud.
+  Saarase t6lgenduse jargi on hiipoteetilise lepingu argumendi mote
+  selles, et ta toob ilmsiks dispositsioonilise n6usoleku: seni-veel­
+  valjendamata n6ustuva hoiaku.
+       Kui palju on v6imalik saavutada sellise argumendiga? -Oks
+  raskus peitub taigas, et n6usoleku m6istet kasutatakse siin vaga
+  n6rgas mattes. Valjendamata ja isegi teadvustamata n6ustumis­
+  kalduvusi peetakse vaga harva moraalses v6i juriidilises konteks­
+  tis siduvaks. Peale selle voib vaga hasti olla inimesi, kes teevad
+  hiipoteetilise lepinguarutluse labi ning j6uavad parast siigavat
+  jarelem6tlemist t6demusele, et loodusseisundis oleks neil parem,
+  ning eelistavad seda niisiis riigile. V6ib-olla nad umbusaldavad
+  tsentraliseeritud v6imu. V6ib-olla on nad loodusseisundi suhtes
+· optimistlikumad kui mina. Kas saaraseid inimesi leidub? Tundub
+  kiill kindlasti nii olevat: anarhistid ja nende m6ttekaaslased, keda
+  kasitlesime eelmises peatiikis, oleksid heaks naiteks. Saaraste ini­
+  meste kohta pole v6imalik oelda, et neil on kalduvus riigiga n6us­
+  tuda: nende n6ustumatus on selge ja aktiivne.
+       Meil v6ib tekkida kiusatus m6elda, et sellised inimesed on
+  irratsionaalsed. Kuid mida on neis nii irratsionaalset? lgatahes,
+
+                                                                   63
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+isegi kui nad on irratsionaalsed, see vaevalt kiill t6estab, et nad on
+andnud oma n6usoleku. Niisiis ei suuda isegi see n6rgim n6usole­
+kuteooria vorm anda seda, mida me otsime - poliitilise kohus­
+tuse iildist alust. Ja kui me kinnitame, et poliitilised kohustused
+peavad olema v6etud vabatahtlikult, laheme selles osas alati riski­
+le valja. Kogu vankri v6ib umber liikata iiksainuke mitten6ustuja.
+Kuna 1epinguteooria on voluntarism par excellence, siis naib, et
+universalismi - teesi, et igaiihel on poliitilised kohustused - liht­
+salt ei saa anda iikski lepingu- v6i n6usolekuteooria vorm, mida
+oleme siin vaadelnud.
+
+
+
+                     Tagasi anarhismi juurde
+
+Vahest seisneb va,stus selles, et tuleb tunnistada: pole v6imalik
+t6estada, et igaiihel on poliitilised kohustused. Riigi voluntarist­
+liku aluse r6hutamine tundub vaga t6eparane, ja kui selle hinnaks
+ongi t6siasi, et me peame leppima m6nede indiviidide paasemi­
+sega riigi v6imu alt, tuleks ehk sellega soostuda.
+     Saarane m6ttekaik annab uut tuge anarhistide iiritusele, mida
+vaatlesime liihidalt 1. peatiikis. Kui me ei suuda leida viisi riigi
+6igustamiseks vastuv6etavatel eeldustel, naib mingit laadi anarhia
+olevat moodapaasmatu, vahemasti moraalses m6ttes. SeUine krii­
+tiline strateegia paistab olevat anarhisti tugevaim relv. Keegi pole
+minult kusinud, kas meil peaks riik olema, ja politsei ei palu mi­
+nult luba tegemaks seda, mida ta teeb. Jarelikult, iitleb anarhist,
+toimivad riik ja politsei mittelegitiimselt, vahemasti mis puutub
+nende tegutsemisse minu suhtes.
+     Niisuguse seisukoha jarelmid v6ivad olla kaugeleulatuvad.
+K6ige radikaalsemal juhul v6iks vaita, et kui me juba kord tun­
+nistame anarhistide argumenti, siis on meie ainus p6hjus riigile
+allumiseks m6istlikkus (prudence), eriti hirm karistuse ees. Tugev
+isiksus peaks saarasele argpiikslikule hoiakule vastu seisma ning
+riigile ja tema kasilastele mitte tahelepanu poorama. V6i kui s6-
+nastada sama mote veidi tagasihoidlikumalt: me v6ime tunnistada,
+nagu juba nagime, et seda, mida n6uab seadus, n6uab seadusest
+s6ltumatult sageli ka moraal. Seeparast peaksid inimesed t6esti
+
+64
+                        RIIGI OIGUSTAMINE
+
+tegema m6ningaid asju, mida riik on maaranud - hoiduma m6r­
+vast, vagistamisest ja vigastamisest -, kuid mitte selleparast, et riik
+on seda maaranud. Lisaks toimib politsei sageli nii, nagu v6iks
+toimida mis tahes kodanik: kaitseb siiiituid, peab kinni ja viib
+kohtu ette igaiihe, kes on teinud midagi halba, ja nii edasi. Niisiis
+v6ime olla politseile tanulikud, et ta meie eest musta too ara teeb.
+Kuid riiki ja politseid tuleks toetada vaid neil juhtudel, kus ollak­
+se s6ltumatult nous nende tegutsemisalustega. T6siasi, et seadus
+on seadus v6i et politsei on politsei, ei anna s6nakuulelikkuseks
+mingit alust. Seega soovitab "filosoofiline anarhist", et v6tak­
+sime politsei ja riigi toimingute suhtes iilimalt kriitilise hoiaku.
+M6nikord kuulub nende toimingute juurde moraalne autoriteet,
+kuid kui seda pole, on meil 6igus neile mitte kuuletuda, nende
+tegevust takistada v6i eirata.
+     M6neti tundub see olevat vaga arukas seisukoht. Vastutus­
+tundlik kodanik ei peaks pimesi seadust jargima, vaid peaks alati
+toetuma oma isiklikule hinnangule, et otsustada, kas seadus on
+6igustatud. Kui ei ole 6igustatud, siis pole moraalset alust seadu­
+sele kuuletuda.
+     Teatud piirini peab selline pilt olema 6ige. V aide, et seadust
+ei tuleks kunagi kahtluse alla seada v6i et sellele ei tuleks kunagi
+vastu hakata, viiks selleni, et tuleks kaitsta juutide jalitamist nat­
+sistlikul Saksamaal v6i alles hiljuti tiihistatud seadusi segaabielude
+ja rasside segunemise vastu L6una-Aafrikas. Seadusele allumise
+kohustusel peab olema mingi moraalne piir. Kuid pole just kerge
+oelda, milline see peaks olema. Uhe aarmusena oletame, et pool­
+daksime jargmist seisukohta: seadusele tuleb alluda vaid siis, kui
+see on taiuslikus koosk6las isiku enda moraalse hinnanguga. Aga
+paljud inimesed (eriti rikkad) on arvamusel, et tulude maksusta­
+mine ainuiiksi rikkuse iimberjagamise eesmargil on moraalselt
+6igustamatu. Asjavisandatud riigi 6igustamise kasitluse seisuko­
+halt oleks niisugustel inimestel 6igus lakata makse maksmast.
+Samal ajal usub suur hulk erineva sotsiaalse ja majandusliku taus­
+taga inimesi, et hiivede omandamine parimise teel on eba6iglane.
+Kes parib rikkuse ja kes mitte, on "moraalsest vaatevinklist taiesti
+meelevaldne", kui kasutada John Rawlsi terminoloogiat (vt 5.
+ptk). Paljud inimesed arvavad, et on taiesti eba6iglane, kui maned
+isikud parivad tohutuid rikkusi, samal ajal kui teised, kes vaarik-
+
+                                                                    65
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+sid sedasama, ei saa midagi. Aga kui te arvate, et paritud omandil
+puudub moraalne 6igustus, siis te arvate ka, et Westminsteri hert­
+sogil pole rohkem 6igust jatta teid ilma "tema" paritud omandist,
+kui teil on 6igust teda sellest ilma jatta selleparast, et see pole
+tegelikult tema oma. Kui siis veel lisate sellele, et seadusele tuleks
+alluda vaid siis, kui see on koosk6las teie moraalsete arusaamade­
+ga, siis pole teil enam mingit p6hjust (peale hirmu v6i karistuse)
+austada suuremat osa teiste inimeste (vaidetavast) omandist.
+     Niisuguseid olukordi leidub ilmselgelt veel palju. Asja tuum
+on selles, et kui tunnistame anarhistlikku seisukohta, naaseme
+kaootilisse olukorda, kus inimesed v6ivad k6igis, ka iihiskonna­
+le olulistes asjades jargida oma isiklikku otsustust. Kuid just sel
+p6hjusel vaitiski Locke, et me peaksime loodusseisundist eemale
+piiiidlema. Saarasest perspektiivist vaadatuna hakkab filosoofilise
+anarhisti positsioon paistma vaga ohtliku moraalse nautlemise­
+na. Kahtlemata qn palju parem, kui me iildiselt tunnistame oma­
+vahelistes asjaajamistes m6ningaid avalikult kehtestatud ja iild­
+tunnustatud seadustekogumeid, kui et jatame inimesed tegutsema
+nende isiklike, iiksteisele vastukaivate koodeksite alusel. Teiste
+s6nadega, uhise seadustekogumi omamine on (m6istlikkuse pii­
+res) palju olulisem kui kellegi privaatne arusaam sellest, millised
+on parimad seadused.
+     Anarhist v6ib selle peale muidugi oelda, et pole alust oodata
+saarast konfliktsete moraaliseisukohtade vohamist. L6ppude 16-
+puks v6ib ju mingi konkreetne moraalne perspektiiv olla 6ige, ja
+nii v6ivad k6ik isikud j6uda iihe ja sama p6hiliste moraalip6hi­
+m6tete kogumi tunnistamiseni. Argumendi kaalukam osa p6hi­
+neb siin teisena toodud vaitel, kuid kui usutav see vaide on? Isegi
+kui on t6epoolest olemas iiksainuke t6este moraaliprintsiipide
+kogum, kuidas saame tagada, et k6ik selle t6esust naevad? Nende
+jaoks, kes ei usu, et siin mingit sobivat meetodit leidub, jaab anar­
+histlik vaatevinkel vahekoitvaks.
+
+
+
+
+66
+                       RIIGI OIGUSTAMINE
+
+                          Utilitarism
+        Alamad peaksid kuuletuma kuningatele... seni kui t6e­
+        naoline kahju kuuletumisest on vaiksem kui vastuhakust
+        siindiv kahju.
+              0eremy Bentham, Fragment valitsuse kohta, lk 5 6)
+
+Lepinguargumentide nurjumine ning anarhismi vahene ligi­
+t6mbavus teeb seda pakilisemaks utilitaristliku teooria lahema
+uurimise. Utilitarismi p6hiideeks on mote, et mis tahes olukorras
+on moraalselt 6igeks teoks see, mis toob kaasa suurima v6imaliku
+kasu. Kasu m6istetakse siinjuures mitut moodi: see v6ib olla 6nn,
+nauding v6i soovide (v6i eelistuste) rahuldamine. Meie arutluste
+seisukohalt pole eriti oluline, millise neist v6imalustest valime, nii
+et raagime mugavuse m6ttes 6nne maksimeerimisest. Uldjoontes
+n6uab utilitarism, et tehtaks see tegu, mis toob endaga maailma
+kaasa rohkem 6nne (v6i vahem 6nnetust) kui mis tahes teine
+samal ajal v6imalik tegu.
+     Pange tahele, et kui tahame v6tta utilitarismi t6siselt, peame
+olerha suutelised 6nne m66tma ja kvantifitseerima, et saaksime
+kindlaks teha, milline mitmest v6imalikust teost toob kaasa k6ige
+rohkem 6nne. Seda peetakse sageli t6siseks raskuseks. L6ppude
+l6puks, kui tahame olukordi v6rrelda, vajame ju mingit m66-
+teskaalat - v6ib-olla naiteks 6nne iihikuid. Kuidas on selline
+m66tmine v6imalik? Teooria ei n6ua meilt mitte iiksnes seda, et
+v6rdleksime iihe inimese 6nne teise omaga ja iitleksime, kummal
+on rohkem, vaid et iitleksime ka, kui pa/ju rohkem. Nahtavasti
+peaksime suutma anda sisu sellistele vaidetele nagu "Fred on kaks
+korda rohkem 6nnelik, kui Charlie on tana, ehkki eile oli ta kolm
+korda 6nnelikum". Paljude arvates on see absurdne. Piiiie 6nne
+niimoodi kvantifitseerida naib lihtsalt lapsik.
+     Probleemi, kuidas leida viisi 6nnelikkuse v6rdlemiseks, tun­
+takse "isikutevahelise kasulikkusv6rdluse" nime all. Kummalisel
+kombel tundub, et mitte iikski iiheksateistkiimnenda sajandi uti­
+litarismi rajajatest pole m6istnud selle probleemi kaalu, ehkki
+m6nel viimasel aastakiimnel on sellele pakutud terve hulk nupu­
+kaid tehnilisi lahendusi. Ukski lahendus pole siiski leidnud iildist
+heakskiitu. Selle kiisimuse la.hem vaatlemine viiks meid teemast
+
+                                                                   67
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+liiga kaugele, kuid igatahes ei peaks me jatma kahe silma vahele
+t6siasja, et kui meilt n6utakse v6rdlusi, ei jaa me kunagi paris
+hatta. Me tunneme naiteks teisi inimesi, kes paistavad nautivat
+teatud roogi v6i meelelahutuse vorme palju rohkern v6i palju
+vahem kui meie ise. Ja mis marksa t6sisem: me naeme iga paev
+inimesi, kes elavad viletsuses, samas kui meile on teada ka teised,
+kes elavad suureparast naudingurohket elu. Seega me usume, et
+teatud v6rdlused on v6imalikud, ehkki me ei tea tapselt, kuidas
+me neid v6rdlusi teostame. Praegu lihtsalt eeldagem, et isikute­
+vaheline kasulikkusv6rdlus on v6imalik, pidades meeles, et utili­
+tarist v6lgneb meile seletuse, kuidas tapselt see v6imalik on.
+     Poordudes tagasi p6hikiisimuse juurde, tuleks jargmiseks kii­
+sida, kuidas naeb valja poliitilise kohustuse utilitaristlik teooria.
+Nagu nagime, Jeremy Benthami jargi peaksime omi} valitsejatele
+alluma seni, kui saarasest hoiakust saadav kasu kaalub tiles kahju.
+Benthami vaade k6lab siis sellise teooria moodi, et ma peaksin
+seadusele alluma' siis - kuid ainult siis -, kui minu allumine viib
+iihiskonna suuremale 6nnele kui minu allumatus.
+     Ent kui Benthami doktriin on niisugune, siis naitab hetk m6t­
+lemist, et tegu on seadusemurdja hartaga. Sest minu 6nn on ju
+iildise 6nne osa. Seega kui seaduserikkumine, naiteks raamatu
+varastamine suurest raamatupoest, suurendaks minu 6nne, ja
+mina oleksin kindel, et keegi ei saaks teada ega kannaks ka min­
+git markimisvaarset kahju v6i kaotust, siis tundub, et utilitarism
+mitte ainult et lubaks mul selle varguse toime panna, vaid lausa
+n6uaks seda. Uldisem s6num oleks saarane, et niisugune utilita­
+ristlik teooria annaks seaduserikkumisele vaga sageli 6igustuse.
+     Kas see saab olla see, mida utilitarist tahab? Ei tundu t6e­
+naoline, ja tegelikult saab sellele kergesti vastata. Vaatame, mis
+juhtuks siis, kui me k6ik rikuksime seadust iga kord, kui me ar­
+vame, et iildine 6nn sellest kasvaks. Sellisel juhul v6iksid sina
+v6tta iiksk6ik millise mulle kuuluva asja alati, kui see suurendaks
+sinu 6nne rohkem kui vahendaks minu oma. Omand oleks siis
+aarmiselt ebakindel, v6ib-olla nii ebakindel, et 16ppkokkuv6tteks
+ei hakkaks keegi tootama ega midagi tootma, kuna teine v6iks
+selle ara v6tta alati, kui utilitaristlik rehkendus tema kasuks too­
+tab. Selline ebakindlus viiks suurele iildisele viletsusele, mis oleks
+umbes nagu loodusseisundi ebakindlus. Paradoksaalsel kombel,
+
+68
+                        RIIGI OIGUSTAMINE
+
+kui igaiiks meist piiiiab suurendada iildist 6nne, toome iiheskoos
+loppkokkuvottes kaasa iildist viletsust. See on teine naide 1. pea­
+tiikis arutatud "vangi dilemmast": tegu, mis individuaalselt suu­
+rendab 6nne, kollektiivses plaanis kahandab seda.
+     Jarelikult v6ib utilitarist vaita, et me vajame seadustekogu,
+mida austataks, isegi kui mone seaduse rikkumine monel konk­
+reetsel juhul voiks suurendada onne (kui niisugune rikkumine
+oleks lubatud). Seda v6ib nimetada kaudseks utilitarismiks. Mote
+on selles, et kui me k6ik arutleme otseselt utilitaristlikes mois­
+tetes, lahevad asjad vaga viltu. Seeparast on meil onne maksi­
+meerimiseks tarvis jargida mitteutilitaristlikku modernist - alluda
+seadustele.
+     Viimatitoodud motte selgitamisel on abiks analoogia iiksik­
+isiku 6nneotsingutega. Lootosesoojad iile kogu maailma avasta­
+vad aeg-ajalt ikka ja jalle, et kui inimene votab endale iiheainsa
+sihi - et tema isiklikult saaks onnelikuks - ja teeb koik mis v6i­
+malik selle saavutamiseks, tabab teda pigem nurjumine kui edu.
+Aga kui eesmargiks on miski muu - naiteks kujundada ja jargida
+mond ambitsiooni, leida endale harrastus voi paar head sopra -,
+voidakse vabalt leida ka onn kui nende piiiidluste korvalsaadus
+voi kaudne tagajarg. Ja seeparast vaidetakse, et otsene 6nneotsing
+on nii individuaalsel kui iihiskondlikul tasandil ennastkummutav.
+Parim, mida saame teha, on seada endale muid eesmarke voi
+jargida muid reegleid, lootes v6i oodates, et selle tulemuseks on
+onn. Utilitaristlik poliitikafilosoof peaks soovitama saarast sea­
+dustesiisteemi, mida iga inimene vahemasti normaalses olukorras
+peaks jargima. Pole niisiis iiksikisiku asi vaagida seadusejargimise
+m6ju onne tasemele iihiskonnas.
+     Selline oli t6enaoliselt Benthami enese tegelik seisukoht: "Kui
+vaadata koiki inimesi korraga, siis on neil kohustus alluda ainult
+siis, kui see on nende huvides." (Fragment valitsuse kohta, lk 5 6)
+Selle katkendiga seoses esitab Bentham mitu ideed:
+    1. Seadus tuleks vastu votta siis ja ainult siis, kui ta aitab ini­
+       meste onnele kaasa rohkem kui iikski konkureeriv seadus
+       (v6i seaduse puudumine).
+
+
+
+
+                                                                    69
+JONATHAN WOLFF. S!SSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+     2. Seadustele tuleks alluda selleparast, et nad on seadused
+        (ja neile allutakse selleparast, et allumatus tahendab ka­
+        ristust), ning neile allumata jatta tuleks iiksnes 6nnetuse
+        valtimiseks.
+     3. Seadus tuleks tiihistada ja asendada, kui ta ei suuda taita
+        6iget utilitaristlikku funktsiooni.
+Utilitaristlik s6num poliitilise kohustuse osas tundub niiiid olevat
+selge. Riik kui seadustekogu andja ning elluviija on 6igustatud
+siis ja ainult siis, kui ta aitab inim6nnele kaasa rohkem kui iikski
+teine teostatav ja konkureeriv iihiskonnakorraldus. Kui m6tle­
+me riigi ning loodusseisundi vahelise p6hikontrasti terminites
+ning v6tame omaks esimese peatiiki, eriti Hobbesi argumendid,
+tundub utilitaristlik riigi6igustus vaga t6eparane. -Oldisele 6nnele
+kaasaaitamise m6ttes paistab riik loodusseisundit suuresti edesta­
+vat. Utilitaristi silmis 6igustab see riiki taielikult.
+     Kuid sellest edust · hoolimata on utilitaristlik riigi6igustus
+suutnud veenda vaga vaheseid poliitikafilosoofe. Paljud moona­
+vad, et argument iseendast tootab hasti, kuid peavad vigaseks
+selle eeldusi. Argument ise on vaga lihtne. Sisuliselt toetub ta vaid
+kolmele eeldusele:
+     1. Moraalselt parimaks iihiskonhaks on see, mis maksimee­
+          rib 6nne.
+     2. Riik edendab 6nne paremini kui loodusseisund.
+     3. Riik ja loodusseisund on ainsad valikuv6imalused, mis
+          meil on.
+     Jarelikult:
+     4. Meil on moraalne kohustus rajada riik ning seda alal
+          hoida.
+Esimeses peatiikis nagime, et eri laadi anarhistid seavad kahtluse
+alla eeldused 2 ja 3, kuid praeguse argumendi huvides oletame,
+et need eeldused on t6esed. Argument tundub kehtiv ka selles
+formaalses m6ttes, et kui eeldused on t6esed, peab ka jareldus
+t6ene olema. Siis on argumendi ainsaks haavatavaks osaks esi­
+mene eeldus - fundamentaalne kasuprintsiip.
+     Ja siin ongi probleem. Vahesed filosoofid on tanapaeval val­
+mis utilitaristlikku modernist tunnistama, kuna nende arvates on
+sellel moraalselt vastuv6etamatud tagajarjed. Konkreetsemalt
+
+70
+                       RIIGI OIGUSTAMINE
+
+vaidetakse sageli, et utilitaristlik moraal lubab voi isegi nouab
+ranka ebaoiglust. Uheks kurikuulsaks raskuseks on nn patuoina­
+vastuvaide: utilitarism lubab tildise onne taotlemise nimel tohutut
+ebaoiglust.
+      Patuoina-vastuvaide on jargmine. Oletame, et on soorita­
+tud mingi rank kuritegu, naiteks terroristlik pommirtinnak,
+kus mitu inimest on saanud surma ja paljud haavata. Saarases
+olukorras lasub politseil tugev surve kurjategijate leidmiseks.
+Elanikkond soovib kattemaksu ja kinnitust, et samalaadsed rtin­
+nakud ei kordu enam. Stitidlaste oigluse katte andmine aitaks
+kahtlemata tildisele onnele kaasa. Kuid utilitarismi vastased on
+markinud, et tildisele onnele aitab kaasa ka see, kui arreteeri­
+takse ja moistetakse stitidi isikud, keda elanikkond usub stitidi
+olevat. Seni kui nad on toenaolised stitidlased - on oige haal­
+dusega, ligikaudu sama valimusega jne -, on rahuldatud vahe­
+masti soov kattemaksu jarele, ja me koik magame oma voodis
+rahulikumalt (ehk kiill ainult oma vaarusu tottu). T osi ktill,
+stititu inimene kannatab. Kuid tundub usutav, et elanikkonna
+kui terviku onne kasv (voi onnetuse vahenemine) kaalub tiles
+stititu kannatused, ja niisiis tasub kellegi ohvrikstoomine ennast
+utilitaristlikus mottes ara. Vaidetakse seega, et utilitarismi taga­
+jarjeks on stititute karistamise moraalselt oigeks tunnistamine.
+Lihtne on valja moelda teisi sama ttitipi naiteid - naiteks orjuse
+utilitaristlik oigustamine.
+     Mote pole mitte selles, et parem karistada stitituid; kahtle­
+mata oleks utilitaristliku rehkenduse seisukohalt veelgi parem
+leida tiles stitidlane ja karistada just teda. Kuid koike arvesse vot­
+tes tundub tisna toenaoline, et moningaid oigluse nuristinnitisi
+saab utilitaristlikus raamistikus kaitsta. Suurem osa filosoofilisest
+arutelust pohineb valjamoeldud naidetel, kuid Suurbritannias
+palvis ktisimus avalikkuse laia tahelepanu seoses tihe pubi pom­
+mitamisega Iiri Vabariikliku Armee poolt. "Birminghami kuuik"
+tunnistati morvas stitidi, kuid stitidimoistetud vaitsid, et politsei
+oli neilt tilestunnistused valja peksnud. Nad ptitidsid politsei vas­
+tu vahistusaja valtel toimunud vaarkohtlemise tottu esitada tsiviil­
+hagi. Lord Denning vottis 1980. aastal Apellatsioonikohtus antud
+hinnangus vaatluse alla ktisimuse, kas sellel tsiviilhagil politsei
+vastu peaks lubama jouda kohtusse. Ta titles jargmist:
+
+                                                                   71
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+         Kui need kuus inimest kaotavad, siis see tahendab, et
+       , paljud inimesed on kulutanud palju aega 'ja raha tiihja
+         asja parast. Kui need kuus v6idavad; siis see tahendab,
+         et politsei oli siiiidi valevandumises, vagivallas ja ahvar­
+         damises, et iilestunnistused polnud vabatahtlikud ja
+         nende lugemine t6endite hulka polnud 6ige ning kohtu­
+         otsused olid ekslikud. See tahendaks, et siseminister
+         peaks kas soovitama neile armuandmist v6i tal tuleks asi
+         uuesti labivaatamiseks anda Apellatsioonikohtusse. See
+         on nii eemalet6ukav valjavaade, et iga m6istlik inimene
+         siin riigis iitleks: ei saa olla 6ige, kui selle asjaga min­
+         nakse kaugemale. (Tsiteeritud Chris Mullini raamatus
+         Otsustusviga, lk 216)
+
+Hiljem tunnistas Denning, et ''tagantjarele v6ib minu markusi
+6igusega kritiseerida" .. Kuid asja tuum on selles, iitleksid utilita­
+rismi kriitikud, et need markused kujutavad endast suureparast
+naidet utilitaristlikust arutlusviisist. Parem on jatta m6ned siiii­
+tud vanglasse kui tunnistada, et politsei sunnib m6nikord inimesi
+terrori j6ul valetunnistusi andma. Vaevalt on tarvis lisada: seda
+halvem utilitaristlikule m6tlemisele.
+     Ent teisalt v6iks utilitarist saaraseid probleeme ehk valtida,
+kui v6taks omaks eespool visandatud "kaudse utilitarismi" stra­
+teegia. Kui me teame, et elame seda laadi iihiskonnas, kus inimesi
+saab ohvriks tuua ja patuoinaks teha ning isegi siiiitult vangis
+hoida, tekitab see niisugust ebakindlust, mis avaldab inim6nnele
+suuresti parssivat m6ju. L6ppude l6puks, kust ma tean, et mi­
+nust endast ei saa jargmine utilitaristlik patuoinas? Seeparast peab
+utilitarist jatma inimestele 6iguse jaada karistamata, kui ei olda
+siiiidi. Sageli vaidetakse, et patuoina-vastuvaidet ja teisi sellesar­
+naseid saab sellise peenema utilitaristliku lahenemisega valtida.
+Ja t6epoolest, utilitarist, kes vaatleb Birminghami kuuiku juh­
+tumit, v6iks vaga hasti vaita, et - contra Denningi algne arglJ­
+ment - kahtlusaluste vabastamisega kaasnes rohkem head kui
+halba. Heideti kiill varju Briti kohtusiisteemile, kuid k6nealuse
+juhtumi ja selle avalikustamise t6ttu v6eti kasutusele paremad
+protseduurid iilestunnistuste jaadvustamiseks, mis on kaugemas
+perspektiivis koigile hea ja turvaline.
+
+72
+                        RIIGI OIGUSTAMINE
+
+     Kaudse utilitarismi argumendi edu paistab utilitarismi kaits­
+mise seisukohalt olevat otsustava tahtsusega. Kui utilitaristlik
+teooria suudaks h6lmata ka iiksikisiku 6iguste teooria, naiteks
+6igust mitte saada ohvriks toodud, siis kaoksid paljud tavalised
+vastuvaited. Vaatlesime p6gusalt, kuidas utilitarism v6iks selle
+iilesandega toime tulla, kuid leidub siiski viise vastuvaidete edasi-
+arendamiseks. Naiteks v6ib oelda, et iildine ebakindlus on patu­
+oinaste kasutamise tagajarjeks iiksnes siis, kui avalikkus m6istab,
+mis toimub. Kui aga avalikkus ei saa t6de kunagi teada, siis pole
+tal ka millegi parast muretseda. (V6i 6igemini, tal on, mille parast
+muretseda, aga kuna ta seda ei tea, siis ta tegelikult ei muretse. Ja
+jarelikult ei lisandu utilitaristlikule kaalukausile iihtki taiendavat
+negatiivset iihikut.) Niisiis on patuoinaste kasutamine utilitarist­
+likult 6igustatud siis, kui on vaga t6hus ja salajane. See on kaht­
+lemata hairiv mote.
+     T6sisem vastuvaide on selline, et isegi kui kalkulatsioon osu­
+tub saaraseks, nagu utilitarist loodab, saavutatakse 6ige tulemus
+valel alusel. V6ib-olla ei maksimeeri inimeste salajane ohvriks­
+toomine tegelikult 6nne. Kuid utilitaristi vastased vaidavad, et
+see pole oluline: kedagi ei tohi ohvriks tuna, liksk6ik milline
+oleks kasu iildise 6ime m6ttes. Birminghami kuuik tuleks vabaks
+lasta, olgu sel iiksk6ik millised tagajarjed. Pealegi, kui utilitariste
+huvitab ainult 6nne maksimeerimine, miks peaksid nad kulutama
+nii palju energiat utilitaristliku 6igusteteooria valjat66tamiseks?
+See just nagu naitaks vahest usku omaenda teooriasse.
+     Praeguse arutluse huvides teeme eelduse, mis hiljem tuleb
+v6ib-olla k6rvale heita: et utilitaristlikku teooriat ei saa 16ppkok­
+kuv6ttes sellise kriitika kaest paasta. Hetkel ei taha ma selle kohta
+rohkem oelda, kuna p66rdun nende kiisimuste juurde iiksikas­
+jalisemalt tagasi 4. peatiikis, kus vaatlen John Stuart Milli t66d
+Vabadusest, mida sageli m6istetakse kui utilitaristliku 6iguste­
+teooria esitust. Praegu on oluline punkt, et ehkki riigi kaudne
+utilitaristlik 6igustus tundub iisna tugev, on utilitarism ise isegi
+oma kaudses vormis vaga kahtlane teooria. Seega pole p6hjust
+rahule jaada niisuguse lahenemisega riigi 6igustamisele.
+
+
+
+
+                                                                    73
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+                Ausameelsuse printsiip
+
+        Kui hakkaksite jutlustama, et poliitilised suhted p6hine­
+        vad tervenisti vabatahtlikul n6usolekul v6i vastastikusel
+        lubadusel, siis enamikus maailma paigus v6imukandja
+        vahistaks teid varsti kui massumeelset, kes 16dvendab
+        kuulekuse koidikuid - kui just teie s6brad poleks teil juba
+        enne suud sulgenud sonimise ja absurdsuste kuuldavale­
+        toomise parast.
+                             (David Hume, Alglepingust, lk 470)
+
+Uksk6ik kas iiksikisikud n6ustuvad riigiga v6i ei, v6ib tunduda
+nende poolt ebaaus, kui nad kasutavad riigi hiivesid, ilma et v6-
+taksid enda kanda hadavajalikke koormisi, mis aitavad neid hii­
+vesid luua. Nii ongi vaidetud, et igaiihel, kes saab riigilt kasu, on
+ausameelsuse koh,ustus (duty of fairness) alluda riigi seadustele,
+anda oma panus maksudesse jne.
+    Selle seisukoha aluseks oleva p6him6tte s6nastas selgesti
+6igusteoreetik ja filosoof H. L. A. Hart (1907-1992), kes for­
+muleeris selle jargmiselt:
+
+        Kui mingi hulk inimesi algatab mingi iihise ettev6tmise
+        vastavalt teatud reeglitele ning kitsendab seelabi oma va­
+        badust, siis neil, kes on end vastavatele kitsendustele allu­
+        tanud, on tarviduse korral 6igus samasugusele allumisele
+        nende poolt, kes on nende allumisest kasu saanud. ("Kas
+        loomulikud 6igused on olemas?", lk 85)
+
+Harti vaatekoha jargi on nimetatud p6him6te otsekui vaikiva
+n6usoleku doktriini "ratsionaalne tuum". Hiivede saamine seob
+inimese t6epoolest riigiga, kuid mitte selleparast, et tegu oleks
+vaikiva n6ustumisviisiga. Pigem on argumendi j6ud selles, et on
+ebaaus kraapida kokku riigi hiivesid, kui ei olda valmis v6tma
+oma 6lgadele ka osa vastavatest koormistest. K6nealusteks hii­
+vedeks on muidugi m6ista julgeolek ning stabiilsus, mis kaas­
+neb eluga iihiskonnas, kus toimib seaduste siisteem. Vastavateks
+koormisteks on poliitilised kohustused. Sama p6him6tte tutta­
+vam vorm puudutab valjategemist baaris. Kui teie kolm s6pra
+
+74
+                       RIIGI OIGUSTAMINE
+
+teevad igaiiks valja iihe ringi jooke koigile neljale, siis voivad nad
+6igusega olla nordinud, kui te otsustate koju minna just siis, kui
+olete lopetanud oma kolmanda joogi.
+     Kui noustume Harti printsiibiga ja m66name, et igaiiks saab
+riigilt hiivesid, paistab sellest jarelduvat, et koigi teiste suhtes
+oleks aus, kui igaiiks meist alluks riigi seadustele. See toetub toe­
+parasele mottele, et kui me saame seadustest kasu, siis on ebaaus
+ning ekspluateeriv rikkuda neid seadusi oma isikliku mugavuse
+parast.
+     Kas on tegelikult voimalik naidata, et igaiiks saab toesti rii­
+gi olemasolust kasu? Esimeses peatiikis toodud Hobbesi argu­
+mentidest voib-olla piisaks enamiku inimeste veenmiseks. Kuid
+ka Hume tegi katse seda motet kaitsta. Ehkki Hume ise polnud
+kindlasti mitte "ausameelsuse teoreetik", voime kasutada monin­
+gaid tema argumente toetamaks teesi, et me k6ik saame t6esti
+riigist kasu.
+     Hume'i esimene samm on vaita, et igaiiks meist saab kasu, kui
+elame iihiskonnas, mida juhivad 6igluse normid - saarased nagu
+naiteks reeglid eraomandi ja isikliku julgeoleku kohta. Meil tuleb
+muidugi tuua liihiajalisi ohvreid, kuid kaugemas perspektiivis ta­
+sub 6iglus end ara. Kuna 6iglus saab 6itsele puhkeda ainult siis,
+kui me k6ik allume seadustele, tuleb valja, et seadustele allumine
+on tegelikult iga inimese isiklikes huvides.
+     Kuid kas on t6esti tosi, et seadustele allumine on meist igaiihe
+huvides? Sel juhul, nagu Hume ise osutab, tundub kummaline, et
+meid tuleb kuulekusele sundida karistuse hirmuga. Kui on meie
+huvides teha seda, mida seadus meile iitleb, miks me siis ei tee
+nii, ilma et oleks vaja meile seadust peale sundida?
+     Hume'i vastus on selline, et inimesed ei ole m6istusparases
+toimimises eriti tugevad. Oletame, et meil on valida, kas toimida
+iihtmoodi ja saada kohe vaikest kasu v6i toimida teistmoodi ja
+saada suuremat kasu, kuid alles marksa pikema aja parast. Ehkki
+l6ppkokkuv6ttes on meie huvides valida teine tee, usub Hume,
+et iseenda hooleks jaetuna valime tavaliselt esimese:
+
+        Ehkki me v6ime olla taiesti veendunud, et teine objekt
+        iiletab esimese, ei ole me suutelised oma tegusid selle
+        hinnanguga reguleerima, vaid anname jarele oma peale-
+
+                                                                   75
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+        tiikkivatele kirgedele, mis alati soosivad seda, mis on siin­
+        samas ja lahedal.
+            Just see on p6hjus, miks inimesed nii sageli toimivad
+        vastupidiselt oma teadlikele huvidele ja eriti, miks nad
+        eelistavad iiksk6ik millist tiihist kohest kasu korra saili­
+        tamisele iihiskonnas, mis nii suurel maaral s6ltub 6igluse
+        jargimisest. (Traktaat inimloomusest, lk 535)
+
+Seega ehkki Hume'i arvates on seadusele kuuletumine meie huvi­
+des, on see huvi vaga kauge ja eemalolev, ning seeparast eelistame
+me t6enaoliselt allumatusega seonduvat vahetumat, ehkki vaikse­
+mat kasu. Hume eeldab, et kui igaiiks meist jargib oma liihiajalisi
+huvisid ning toimib eba6iglaselt, siis iihiskond laguneb laiali, mis
+on meile k6igile suureks 6nnetuseks. Seega kasib m6istus meil taot­
+leda pikemaajalist kasu ning alluda seadusele. Kuid Hume usub, et
+ehkki just seda iitle;b meile k6igile m6istus, ei piisa m6istusest iiksi
+teo motiveerimiseks. Hume'i arvates on m6istus "kirgede ori". Ja
+meie irratsionaalsed kired ning vahetu rahulduse eelistamine saab
+kiiresti v6itu meie m6istuslikust kaalutlusest.
+     Niisiis vaidab Hume, et kuna "on v6imatu muuta v6i paran­
+dada midagi olulist meie loomuses, siis iilim, mida v6ime teha,
+on muuta oma olukorda ja tingimusi ning teha 6igluse seadus­
+te jargimine oma lahimaks huviks" (Traktaat inimloomusest,
+lk 537). Teiste s6nadega, on tarvis leida viis, kuidas panna 6ig­
+luse seaduste jargimine kaasa aitama meie vahetule huvile. See
+on ainus v6imalus, kuidas me suudame neid seadusi jargida ning
+seelabi iihtlasi rahuldada ka oma pikaajalisi huve.
+     Uhtlasi vaidab Hume, et peaksime rajama tsiviilv6imukandja­
+te siisteemi, kellel on v6im teha seadusi ning neid karistuse abiga
+j6ustada. Seadustele allumine on juba meie pikaajalistes huvides,
+samas kui inimeste karistamine allumatuse eest teeb kuuletumise
+ka meie liihiajaliseks huviks. On tarvilik, et meid sunnitaks sea­
+dusele alluma - tegelikult peaksime seda tervitama -, sest m6is­
+tus on inimmotivatsiooni allikana j6uetu. Meid on vaja sundida
+toimima omaenda m6istusparase omahuvi kohaselt.
+     Seda argumenti esitades oli Hume'i eesmargiks selgitada va­
+litsuse eeliseid ning seletada, miks me iildiselt oleme valmis riiki
+tunnistama, ehkki see ei p6hine meie n6usolekul. Vaita, et meil
+
+76
+                       RIIGI OIGUSTAMINE
+
+on allumiseks i:ningi moraalne kohustus, on jargmine samm, ja
+rangelt v6ttes niisugune, milleni Hume ei j6udnud. Kuid sellised
+ausameelsuseteoreetikud nagu naiteks Hart. on piiiidnud minna
+Hume'ist kaugemale. Me k6ik saame riigi olemasolust kasu, ja
+oleks meie kaaskodanike suhtes ebaaus neid hiivesid vastu v6tta,
+kui me iihtlasi ei v6taks vastu ka koormisi, mis on tarvilikud
+nende hiivede loomiseks. Nendeks koormisteks on poliitilised
+kohustused. Seega on meil ausameelsuse kohustus tunnistada
+oma kohustust riigile alluda.
+     Aga kas meil ikka on tegelikult sellist kohustust? Kui me saame
+hiivesid, mida me pole palunud, kas me peame nende eest maksma?
+Poordudes tagasi varasema naite juurde: kas ma pean iihe ringi joo­
+ke valja tegema, kui ma pole palunud, et teised mulle valja teeksid?
+Oletame, et ma teen kohe alguses selgeks, et mul pole mingit kavat­
+sust kellelegi teisele midagi joodavat osta. Kas ma v6in siis kasitada
+neid jooke, mis teised mulle ostavad, tasuta kingitustena? Filosoof
+Robert Nozick vaidab oma raamatus Anarhia, riik ja utoopia, et
+palumata hiived ei kutsu esile mingeid vastastikuseid kohustusi.
+Ta toob jargmise naite. M6ned teie naabrid on avastanud avaliku
+eetri ja otsustavad sisse seada teatud skeemi iildiseks meelelahu­
+tuseks. Igale inimesele maaratakse ilks paev, mil ta peab eetrisse
+minema - mangima plaate, raakima nalju jne - k6igi teiste l6buks.
+Kui olete 13 7 paeya lasknud teistel oma meelt lahutada ja kui siis
+13 8. paeval tuleb teie kord, kas teil on kohustus loobuda iihest
+oma paevast iilejaanute l6bustamiseks? (Anarhia, riik ja utoopia,
+lk 93) Nozicki meelest on ilmne, et teil pole selleks mingit mo­
+raalset kohustust; kuid ausameelsuse printsiibist, nii nagu Hart on
+selle s6nastanud, naib jarelduvat vastupidine. Te olete ju ikkagi
+avalikust eetrist kasu saanud ning niiiid on teie kord v6tta koorem
+enda kanda ja teha omakorda midagi teiste he3ks. Ausameelsuse
+p6him6tte kohaselt peaksite seega niiiid oma bsa andma.
+     Miks vaidab Nozick, et teil pole s··· rast kohustust? Sest te
+ju ei palunud neid hiivesid, need anti . iiksk6ik kas nad teile
+meeldisid v6i ei. Voib-olla te oleksit e!l?fanud seda, et poleks
+olnud ei hiivesid ega koormisi. Aga ii koiljkas te tahate neid v6i
+                                          ,
+ei - kui me iitleme, et teil antud juhul On kohustus alluda, annab
+see teistele voli sundida teile peale isegiyastumeelseid hiivesid ja
+seejarel n6uda tasu, mis oleks vaevalt kiilJ ,6iglane.
+
+                                                                   77
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+     V6ib-olla saab selle kontranaitega toime tulla, kui t66tada
+teooria iiksikasjad paremini valja. Ehk tekib ausa omapoolse
+panuse kohustus ainult siis, kui tunnistatakse (mitte lihtsalt ei
+saada) hiivesid, andes endale iihtlasi aru ka vastavatest kuludest.
+Avaliku eetrisiisteemi puhul tekib teil kohustus iiks paev nalju
+raakida ainult siis, kui te tunnistate skeemi tervikuna. lgaiiks,
+kes tunnistab hiivesid, kuid piiiiab valtida oma panuse andmist,
+on ekspluateerija v6i "janests6itja" ja seega pole mingi eba6iglus
+sundida teda maksma. Tundub m6istlik oelda, et kui printsiipi
+parandatakse nii, et see punkt on arvesse v6etud, siis loob ta
+reaalsed kohustused (enforceable obligations). On ebaaus v6tta
+vastu hiivesid, kuid keelduda maksmast.
+     Kuid kui printsiipi niimoodi muuta, tekib uus raskus. Prob­
+leem on niiiid selles, et kui ainsad hiived, mis panevad aluse ko­
+hustustele, on need, mida tunnistatakse, siis see n6uab, et me
+suudaksime eristada tunnistatud hiivesid nendest, mis lihtsalt
+saadakse. Aga mida kujutaks endast riigi hiivede tunnistamine?
+L6ppude 16puks, kuidas saaksime neist hiivedest loobuda? Me
+saame nad k6ik (v6i peaaegu k6ik), iiksk6ik kas tahame v6i ei.
+Teiste s6nadega, siin on meil tapselt samad probleemid mis vaiki­
+va n6usoleku teooriaga. Kuidas saame takistada hiivede tunnista­
+mist muutumast puhtautomaatseks? Ja kui suudame selle raskuse
+iiletada mingi peenema kasitluse abil selle kohta, mida tahendab
+hiivesid tunnistada, peame vaatama silma v6imalusele, et m6ned
+inimesed-anarhistid, aga v6ib-olla ka maned teised-v6ivad keel­
+duda neid hiivesid tunnistamast. Isegi kui nad hind4vad Hume'i
+ja teiste argumente riigi eeliste kohta, naevad nad samas raskusi
+ning eelistavad pigem mitte kasu saada ja mitte omada poliitilisi
+kohustusi. Ja seega ei tekiks neil ausameelsuse kohustust riigile
+alluda. Jarelikult, selle t6lgenduse kohaselt ei saa ausameelsu­
+se printsiip, nagu ka n6usolekul p6hinevad argumendid, anda
+universaalset allumiskohustust. Ta saab seda anda ainult siis, kui
+jaame Harti algse formulatsiooni juurde, kus raagitakse hiivede
+"saamisest". Aga nagu Nozicki naitest ilmneb, viib see proble­
+maatilistele jarelduste,le. Kaesoleva p6gusa vaatluse p6hjal tun­
+dub niisiis, et ausameelsuse printsiip on kiill parem kui n6usole­
+kuteooria, kuid ei lahenda siiski poliitilise kohustuse probleemi.
+
+
+78
+                        -RIIGI OIGUSTAMINE
+
+
+                           Kokkuvote
+Me vaatlesime mitmeid poliitilise kohustuse p6hjendamise viise,
+kuid k6ik nad jatavad iihes v6i teises suhtes soovida. Lepingu­
+traditsiooni voluntaristlikud p6hjendused ei suuda seletada nende
+kohustusi, kes keelouvad n6usolekut andmast. Utilitaristlikel ar­
+gumentidel v6ivad kergesti olla vastuv6etamatud tagajarjed, kuna
+tundub, et nad sunnivad meid vahemalt p6him6tteliselt lubama
+siiiitute ohverdamist. Ausameelsuse argument on edukas vaid siis,
+kui k6ik tunnistavad riigi hiivesid, see aga pole kuigi t6enaoline.
+Kas see tahendab, et meil polegi poliitilisi kohustusi?
+      K6igepealt peaksime selgelt m6istma, et ehkki need argu­
+mendid igaiiks omaette ei suuda naidata universaalse allumis­
+kohustuse olemasolu, on m6ned neist sellegipoolest teatud piirini
+edukad. M6ned inimesed valjendavad selges6naliselt oma n6us­
+tumist riigiga: naiteks need, kes on erilistel vastutavatel ameti­
+kohtadel, nagu parlamendiliikmed, ent ka need, kes on saanud
+kodanikuks naturalisatsiooni korras. Palju rohkem on neid,
+kellel lasub ausameelsuse kohustus, sest enamik inimesi v6tab
+hea meelega vastu riigi hiived, ja v6ib vaita, et nende arvates on
+kuuletumiskohustus selle eest 6iglane hind. Ning kui peetakse
+vastuv6etavaks utilitaristlikku m6tlemist, v6ib riik olla taielikult
+6igustatud. Kuid isegi juhul kui utilitarismi eitada, siis kui iiks­
+k6ik milline iilejaanud argumentidest lahtub vastuv6etavast mo­
+raalsest alusest, on suuremal osal tanapaeva iihiskonna liikmetest
+ikkagi olemas poliitilised kohustused. Neist paasevad kiill 6ige
+vahesed isikud.
+     Mis sellest jareldub? -Ohelegi riigile ei meeldi mote, et m6ned
+tema territooriumil elavad inimesed ei oma poliitilisi kohustusi.
+K6igepealt, piiiie teha vahet neil, kellel on ja kellel pole poliitilisi
+kohustusi, tekitab riigiametnikele tohutuid praktilisi raskusi, eriti
+kui m6ned kasutavad neid raskusi ara ja iiritavad ennast esitada
+selliste riihmade liikmena, kellel puuduvad poliitilised kohustu­
+sed. Seega isegi kui riik on valmis tunnistama, et teoorias on m6-
+ned inimesed ilma poliitiliste kohustusteta, siis praktikas peaks
+ta seda ignoreerima ja toimima nii, nagu poliitilised kohustused
+oleksid iileiildised. Kahtlemata saaks ta teha m6ningaid erandeid,
+kuid t6enaoliselt ainult vaga erilistel ja selgesti maaratletud juh-
+
+                                                                     79
+JONATHAN WOLFF. SISSEJUHATUS POLIITIKAFILOSOOFIASSE
+
+tudel. Mungad v6i mustlased v6ib-olla vabastataks m6ningatest
+maksudest ja m6ni teine rilhm v6idaks vabastada kohustuslikust
+s6javaeteenistusest. Kuid ilkski rilhm ei paaseks k6igist poliitilis­
+test kohustustest.
+     Ent oletame, et riik t6lgiks t6esti teooria praktikasse ja tun­
+nistaks, et tal puudub voli m6ningate inimeste ellu sekkuda. Kas
+see tekitab meie teiste jaoks raskusi? Mitte tingimata. Fakt, et
+m6ned inimesed paasevad poliitilistest kohustustest, ei anna neile
+6igust kedagi kahjustada. Nendel inimestel on ikkagi taiel maa­
+ral olemas moraalsed kohustused. Peale selle, vahemasti Locke'i
+seisukoha jargi on k6igil ilksikisikutel 6igus ellu viia moraalisea­
+dust ka valitsuse puududes. Kui valitsused on olemas, siis need
+meist, kes peavad ennast riigi osaks, v6ivad riigi appi kutsuda,
+kui s6ltumatud peaksid endast ohtu kujutama ja on tarvis end
+nende eest kaitsta. Kuigi riigi seadustel ei pruugi olla erilist v6i­
+mu s6ltumatute iiLe, kes ei pea ennast riigi osaks, annab enamik
+moraalivaatekohti meile 6iguse kaitsta ennast selleks k6ige ko­
+hasemate vahenditega - antud juhul riigiga. Jarelikult ei tahenda
+m6ne s6ltumatu olemasolu seda, et me ei saa kasutada riiki enese
+kaitsmiseks nende eest. Me v6ime vaga hasti hakkama saada ka
+m6ne s6ltumatu olemasolu korral. Vaatame naiteks saadikuid ja
+teisi diplomaatilise puutuniatusega isikuid. Teatud m6ttes ei ole
+riigil, kus nad elavad, nende tile v6imu. Kuid see ei tahenda, et
+riigi esindajad peavad lubama saarastel diplomaatidel toimida
+nende suvaliste tujude kohaselt. Kui diplomaat vehib ostukes­
+kuses kirvega, tehakse ta politsei poolt 6igusega .relvituks, nii
+nagu me ka omavahel ilksteist ohjeldame. Mida me kummalgi
+juhul teha ei saa, on teostada juriidilist karistamist v6i kasutada
+j6udu, mis la.heh kaugemale enesekaitsest, vahemasti mitte ilma
+taiendava loata.
+     Aga muidugi m6ista ei n6ustuks iikski riik sellega, et tema
+territooriumil elavatel inimestel pole iildse mingeid poliitilisi ko­
+hustusi. Diplomaatiline puutumatus on vaga eriline juhtum, mida
+reguleerivad rahvusvahelised lepped. Seadusi rakendatakse k6igi
+puhul, isegi kui riik seejuures m6nel juhul illegitiimselt toimib.
+Kuid niimoodi illegitiimselt toimides tegutseb riik siiski oma ko­
+danike maaratu enamuse heakskiidul.
+
+
+80
+
